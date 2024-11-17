@@ -14,9 +14,9 @@
 2. Lupa Kata Sandi
 3. Halaman Beranda <br>
 >**Perhatian !**<br><br>
-Setelah login, akan tampil pop up / modal box Informasi tentang Simaster, kemudian klik **tombol merah** Tutup<br><bR>
+Setelah login, akan tampil pop up / modal box Informasi tentang Simaster, kemudian klik **tombol merah** <button name="button" style="color:red">Tutup</button> Tutup<br><bR>
 > 
-4. Menu Beranda 
+4. Menu Beranda (Tampilan Awal)
 5. Menu Pengajaran 
 6. Menu Kinerja 
 7. Menu Insentif 
