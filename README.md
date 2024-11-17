@@ -1,13 +1,17 @@
 # Dokumen User Manual
 
-## Simaster dan Simaster vNEXT
-## Universitas Gadjah Mada
+## Simaster & Simaster vNEXT
+Panduan Simaster untuk portal simaster.ugm.ac.id
+Panduan Simaster vNEXT untuk aplikasi mobile (PlayStore dan AppStore)
 
 
-## Panduan Simaster ( simaster.ugm.ac.id )
+## List Panduan  
+### simaster.ugm.ac.id 
+1. Hak Akses Dosen 
+2. Hak Akses Mahasiswa 
+3. Hak Akses Alumni 
+4. Hak Akses Orang Tua
 
-### Hak Akses Dosen
-### Hak Akses Mahasiswa
-### Hak Akses Alumni
-### Hak Akses Orang Tua
-
+### Simaster vNEXT 
+1. Simaster vNEXT (Dosen & Staff)
+2. Simaster Student (Mahasiswa)
