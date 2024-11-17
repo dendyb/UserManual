@@ -14,13 +14,22 @@
 2. Lupa Kata Sandi
 3. Halaman Beranda <br>
 >**Perhatian !**<br><br>
-Setelah login, akan tampil pop up / modal box Informasi tentang Simaster, kemudian klik **tombol merah** <button name="button" style="color:red">Tutup</button> Tutup<br><bR>
+Setelah login, akan tampil pop up / modal box Informasi tentang Simaster, kemudian klik **tombol merah** <button name="button" style="background-color:red; color:#fff">Tutup</button> Tutup<br><bR>
 > 
-4. Menu Beranda (Tampilan Awal)
-5. Menu Pengajaran 
-6. Menu Kinerja 
-7. Menu Insentif 
-8. Menu e-Office 
-9. SDM 
-10. Pengaturan
+
+4. Menu Pengajaran 
+   - RPKPS
+   - OBA
+   - KKN 
+   - Akademik
+   - Perkuliahan
+   - Tugas Akhir
+   - E-Learning
+   - Proses Nilai<bR><bR>
+
+5. Menu Kinerja 
+6. Menu Insentif 
+7. Menu e-Office 
+8. SDM 
+9. Pengaturan
 
