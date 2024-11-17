@@ -11,4 +11,5 @@
    - masukkan / ketik ulang kode *Captcha* yang tampil
    - klik tombol Biru Proses
    
-2. Lupa Kata Sandi
+2. Halaman Beranda 
+3. Lupa Kata Sandi
