@@ -7,7 +7,7 @@ Panduan Simaster vNEXT untuk aplikasi mobile (PlayStore dan AppStore)
 
 ## List Panduan  
 ### simaster.ugm.ac.id 
-1. [Hak Akses Dosen](simasterDosen)
+1. [Hak Akses Dosen](simasterDosen.md)
 2. Hak Akses Mahasiswa 
 3. Hak Akses Alumni 
 4. Hak Akses Orang Tua
