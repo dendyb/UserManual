@@ -14,7 +14,7 @@
 2. Lupa Kata Sandi
 3. Halaman Beranda <br>
 >**Perhatian !**<br><br>
-Setelah login, akan tampil pop up / modal box Informasi tentang Simaster, kemudian klik **tombol merah** <button name="button" style="background-color:red; color:#fff">Tutup</button> Tutup<br><bR>
+Setelah login, akan tampil pop up / modal box Informasi tentang Simaster, kemudian klik **tombol merah** Tutup<br><bR>
 > 
 
 4. Menu Pengajaran 
@@ -28,6 +28,13 @@ Setelah login, akan tampil pop up / modal box Informasi tentang Simaster, kemudi
    - Proses Nilai<bR><bR>
 
 5. Menu Kinerja 
+   - Penelitian
+   - Pengabdian
+   - Publikasi
+   - Acadstaff
+   - SISTER - Pelaksana Penelitian
+   - SISTER - Pelaksana Pengabdian<br><bR>
+   
 6. Menu Insentif 
 7. Menu e-Office 
 8. SDM 
