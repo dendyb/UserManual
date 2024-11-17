@@ -1,8 +1,9 @@
 # Dokumen User Manual
 
 ## Simaster & Simaster vNEXT
-Panduan Simaster untuk portal simaster.ugm.ac.id<br>
-Panduan Simaster vNEXT untuk aplikasi mobile (PlayStore dan AppStore)
+Panduan Simaster untuk portal [simaster.ugm.ac.id](http://simaster.ugm.ac.id)<br>
+Panduan Simaster vNEXT untuk aplikasi mobile<br>
+Platform Android (Google PlayStore) & iOS (Apple AppStore) 
 
 
 ## List Panduan  
