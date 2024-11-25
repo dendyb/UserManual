@@ -36,7 +36,45 @@ Setelah login, akan tampil pop up / modal box Informasi tentang Simaster, kemudi
    - SISTER - Pelaksana Pengabdian<br><bR>
    
 6. Menu Insentif 
+   - Hibah<br><br>
+   
 7. Menu e-Office 
-8. SDM 
+   - Aplikasi
+   - DMS
+   - Persuratan
+   - Survei / Pendataan
+   - Agenda
+   - Tanda Tangan Elektronik
+   - Skrining Harian
+   - Perpustakan
+   - Ujian Masuk
+   - Kemahasiswaan
+   - OSS Student<br><br>
+   
+8. SDM
+   - Data Pegawai
+   - Payroll
+   - Angka Kredit Dosen
+   - IBK
+   - LKD/BKD
+   - Studi Lanjut
+   - SKP Dosen
+   - Performa+ UGM
+   - Sister BKD
+   - Performa++<Br><bR>
+   
 9. Pengaturan
+   - Data Akun
+   - Data Pribadi
+   - Blog/Website
+   - Klaim Akun UGM
+   - Penulis Penelitian
+   - Layanan UGM
+   - Seting Notifikasi<br><br>
+
+10. Pada Nama dan ID Dosen
+    - Profil
+    - Ganti Password
+    - Ganti Group
+    - Logout<b><br>
 
